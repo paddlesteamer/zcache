@@ -1,3 +1,3 @@
-module zgo.at/zcache
+module github.com/paddlesteamer/zcache
 
-go 1.13
+go 1.14
